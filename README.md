@@ -1,4 +1,5 @@
 # React + Vite
+This code repository is a beautiful, responsive nike landing page , built on React and Tailwind CSS .
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
